@@ -1,6 +1,2 @@
-"# Particle-replay-buffer-for-EBM" 
-"# Particle-replay-buffer-for-EBM" 
-# Particle-replay-buffer-for-EBM
-# Particle-replay-buffer-for-EBM
-# Particle-Replay-Buffer
-# Particle-Replay-Buffer
+# In order to train the model
+python train_urb 
