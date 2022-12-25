@@ -10,5 +10,5 @@ pip install -r requirements.txt
 
 The basic usage for training is
 ```sh
-python train_ebm.py
+python train_urb.py
 ```
